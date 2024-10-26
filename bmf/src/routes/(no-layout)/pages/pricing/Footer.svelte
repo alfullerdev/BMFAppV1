@@ -16,7 +16,7 @@
 				<div class="col-span-2 mb-6 md:mb-0">
 					<FooterBrand
 						href="https://flowbite.com"
-						src="/images/flowbite-svelte-icon-logo.svg" style="width=100%;"
+						src="/images/flowbite-svelte-icon-logo.svg"
 						alt="Flowbite Logo"
 						name="Flowbite"
 					/>

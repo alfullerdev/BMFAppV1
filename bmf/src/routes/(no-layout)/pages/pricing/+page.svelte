@@ -28,7 +28,7 @@
 	color="dark"
 >
 	<NavBrand href="/" style="min-width450px;">
-		<img src="/images/flowbite-svelte-icon-logo.svg" style="width=100%;" style="width=100%;" class="me-3 h-6 sm:h-9" alt="Flowbite Logo" />
+		<img src="/images/flowbite-svelte-icon-logo.svg" class="me-3 h-6 sm:h-9" alt="Flowbite Logo" />
 		<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white"></span
 		>
 	</NavBrand>
