@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 391.92 63.3">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #ef4453;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #9c9c9c;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        font-family: GendyRegular, Gendy;
+        font-size: 60px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <text class="cls-8" transform="translate(0 51)"><tspan class="cls-4" x="0" y="0">b</tspan><tspan class="cls-5" x="33.18" y="0">e</tspan><tspan class="cls-6" x="63.42" y="0">v</tspan><tspan class="cls-4" x="95.64" y="0">.</tspan><tspan class="cls-2" x="107.1" y="0">me</tspan><tspan class="cls-3" x="180.9" y="0">r</tspan><tspan class="cls-1" x="199.38" y="0">ch.</tspan><tspan class="cls-7" x="277.44" y="0">food</tspan></text>
+</svg>
